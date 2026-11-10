@@ -5,6 +5,7 @@ public class Main {
         ejecutarConteoInversiones();
         ejecutarCambioDinamico();
         ejecutarCambioVoraz();
+        PruebaEstresAlgoritmos.ejecutar();
     }
 
     private static void ejecutarConteoInversiones() {
